@@ -1,0 +1,42 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled executable files
+*.exe
+*.out
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+
+# IDE-specific files and directories
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Dependency directories
+lib/
+vendor/
+deps/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Editor backup files
+*~
+.*.swp
+
+# Generated files
+Makefile
+CMakeLists.txt
+compile_commands.json
+
+# Configuration files specific to your development environment
+*.sublime-project
+*.sublime-workspace
